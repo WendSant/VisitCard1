@@ -1,0 +1,62 @@
+
+body {
+
+    background-color: darkgray;
+
+}
+
+h1 {
+    font-family: Comfortaa;
+    font-size: 20px;
+
+}
+
+
+.bg {
+
+    /* background: url('../assets/backgorund.png') no-repeat; */
+    background: url(../assets/background2.jpg);
+    width: 400px;
+    height: 200px;
+    background-size: cover;
+    margin: auto;
+    padding: 1px 20px;
+
+}
+
+.bg ul li {
+
+        list-style-type: none;
+        font-family: Comfortaa;
+        text-transform: uppercase;
+        line-height: 25px;
+
+        
+}
+
+.bg ul {
+
+    padding-top: -50px
+
+}
+
+
+a{
+
+    text-decoration: none; 
+    color: black;
+}
+
+#twitter{
+    list-style-image: url(../assets/Twitter.png);
+
+}
+
+#insta {
+    list-style-image: url(../assets/Insta.png);
+}
+
+#yout {
+    list-style-image: url(../assets/Youtube.png);
+
+}
