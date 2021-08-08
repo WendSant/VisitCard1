@@ -1,6 +1,6 @@
 # Projeto Cartão de visita
 
-Projeto de cartão visitas usando HTML e CSS básico.
+Projeto de um cartão visitas utilizando HTML e CSS básico proposto no curso do ProgramadorBr.
 
 ## Imagem
 <p align="center">
